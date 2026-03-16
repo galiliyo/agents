@@ -1,2 +1,9 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I’m a front-end developer focused on building and evolving complex web applications, working at the intersection of modern frontend architecture and developer experience. I simply love to code. I’m curious by nature and interested in a wide range of topics—from history, music, and art to questions about consciousness.
+
+A recurring theme in my work is helping developers understand large systems. I’m particularly interested in tools and workflows that make complex repositories easier to navigate. Recently I’ve been exploring AI-assisted development, agent-driven tooling, and ways LLMs can analyze architecture, surface patterns, and accelerate onboarding. I’m also passionate about UX and improving the collaboration loop between design and engineering.
+
+Alongside my main work, I’m involved in an early-stage project building a Next.js application for searching large photo libraries, experimenting with pragmatic startup engineering practices and modern web tooling.
+
+Outside of engineering, I spend time with film, music, and language learning. I’m also interested in Buddhist philosophy and its perspective on attention and clarity of mind. I enjoy the sea whenever possible, and as a father I often find myself turning history and science into stories that can compete with Minecraft and YouTube.
+
+I’m always interested in conversations about frontend architecture, developer tooling, UX, and thoughtful uses of AI in software development.
