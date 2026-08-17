@@ -1,0 +1,13 @@
+I oppose the motion. What is happening in Gaza is a devastating war, not proven genocide.
+
+The legal bar for genocide is very high: it requires **specific intent** to destroy, in whole or in part, a protected group **as such**. That is the crucial issue here, and it has not been established. Israel’s stated objective has been to defeat Hamas, a governing and military organization that carried out the October 7 massacre, not to eliminate Palestinians as a people. A brutal military campaign can be unlawful, excessive, and deeply tragic without meeting the distinct legal threshold of genocide.
+
+Second, the presence of massive civilian harm does not by itself prove genocidal intent. In dense urban warfare, civilian casualties, destruction of infrastructure, and humanitarian catastrophe can result from legitimate military operations—especially when an enemy embeds itself among civilians, in homes, schools, hospitals, and tunnels. The fact that Gaza has suffered immense destruction is not enough, on its own, to show an intent to destroy the Palestinian population.
+
+Third, Israeli conduct also contains evidence inconsistent with genocide. Israel has repeatedly allowed humanitarian aid, issued evacuation warnings, opened humanitarian corridors at various points, and adjusted operations in response to civilian risk and international pressure. If the aim were genocide, we would expect a far more straightforward campaign of total extermination rather than a conflict framed—however imperfectly—as a war against Hamas while attempting to limit civilian harm.
+
+Fourth, inflammatory statements by individual officials, while unacceptable, do not automatically establish state genocidal intent. Genocide is not proven by hateful rhetoric alone; it requires showing that those statements reflect the actual policy of the state and the purpose of the military campaign. In this case, the consistent official rationale remains the destruction of Hamas’ military capability and hostage recovery, not the elimination of Palestinians as a group.
+
+Finally, the better legal characterization is that there may be serious allegations of disproportionate force, possible war crimes, and catastrophic humanitarian suffering. But **genocide** is a specific charge that should not be diluted by applying it whenever a war produces horrifying civilian losses. Accuracy matters. If we stretch the definition, we weaken the meaning of genocide itself and risk losing the clarity needed to hold any side accountable.
+
+So the conclusion is this: Israel’s actions in Gaza may be severe, controversial, and potentially unlawful in important ways—but the evidence does not meet the demanding standard required to prove genocide.
